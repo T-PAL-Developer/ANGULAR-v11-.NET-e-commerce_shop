@@ -405,7 +405,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Core": "1.0.0"
+          "Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.1",
+          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.1"
         },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
@@ -1102,9 +1104,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Infrastructure >= 1.0.0",
-      "Microsoft.EntityFrameworkCore >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.1",
-      "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.1"
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.1"
     ]
   },
   "packageFolders": {
@@ -1148,15 +1148,7 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
           "Microsoft.EntityFrameworkCore.Design": {
-            "target": "Package",
-            "version": "[5.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[5.0.1, )"
           }
