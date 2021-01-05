@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pYeI9VEdvnyOrTxs62xFm2dH0IhoZ63P1jcoE+eSbzTeyy2B8S6Ya1pWXPqufnx+DWMqytcDLT6gHPsg0mvO5g==",
+  "dgSpecHash": "wno6XqMNmdDJpTxbwkOO1k04byUaVh/fzXBVcDkA9sTBCMP/xD/9fAPlNSUpyxyU9/EVtLte56OdSEApueIUHg==",
   "success": true,
   "projectFilePath": "/Users/tomaszpaluszkiewicz/Desktop/demo/skinet/API/API.csproj",
   "expectedPackageFiles": [
@@ -32,9 +32,7 @@
     "/Users/tomaszpaluszkiewicz/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "/Users/tomaszpaluszkiewicz/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/Users/tomaszpaluszkiewicz/.nuget/packages/system.text.encodings.web/5.0.0/system.text.encodings.web.5.0.0.nupkg.sha512",
-    "/Users/tomaszpaluszkiewicz/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
+    "/Users/tomaszpaluszkiewicz/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }
