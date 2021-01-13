@@ -52,3 +52,5 @@
 /Users/tomaszpaluszkiewicz/Desktop/demo/skinet/API/obj/Debug/net5.0/ref/API.dll
 /Users/tomaszpaluszkiewicz/Desktop/demo/skinet/API/obj/Debug/net5.0/API.pdb
 /Users/tomaszpaluszkiewicz/Desktop/demo/skinet/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Users/tomaszpaluszkiewicz/Desktop/demo/skinet/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/tomaszpaluszkiewicz/Desktop/demo/skinet/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
