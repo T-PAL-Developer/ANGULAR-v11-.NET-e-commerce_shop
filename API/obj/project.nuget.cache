@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xknnMTfDRwtO07MBKzU0uxuxurkwlufZURMT6/7pAg5uuc1qBoCCcah/AgrChY5xVADoVJpH9Pu56TEkHlOFWg==",
+  "dgSpecHash": "7BXzdpmxkr2BI07PAEVphTxJ+Hsqu+eJXF8144p7DpJsPjdIdzVg1AtlRWrVsOdAJNM0XIGaLdDDBLen/Q6drQ==",
   "success": true,
   "projectFilePath": "/Users/tomaszpaluszkiewicz/Desktop/demo/skinet/API/API.csproj",
   "expectedPackageFiles": [
@@ -27,10 +27,14 @@
     "/Users/tomaszpaluszkiewicz/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/tomaszpaluszkiewicz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.4/sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "/Users/tomaszpaluszkiewicz/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/tomaszpaluszkiewicz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/tomaszpaluszkiewicz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/tomaszpaluszkiewicz/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
