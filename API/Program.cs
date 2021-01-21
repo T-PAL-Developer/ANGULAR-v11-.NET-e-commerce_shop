@@ -28,7 +28,6 @@ namespace API
         {
           var logger = loggerFactory.CreateLogger<Program>();
           logger.LogError(ex, "An error occured during migration");
-          throw;
         }
       }
 
